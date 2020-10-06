@@ -1,6 +1,7 @@
 # XPS-13-BigSur
 
 OpenCore 0.6.2
+
 Works with Big Sur Developer Beta 9 20A5384c
 
 You may need to add Wifi/BT kexts, I use a kextless Wifi card, the BCM94360NG.
